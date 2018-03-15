@@ -1,15 +1,14 @@
 ---
 layout: page
 titles:
-  en: About
-  zh: 关于
-  zh-Hans: 关于
-  zh-Hant: 關於
+  en: Jingyu Xiong
+  zh: Jingyu Xiong
+  zh-Hans: Jingyu Xiong
+  zh-Hant: Jingyu Xiong
 key: page-about
 ---
 
-Just say something about yourself. :+1:
 
-我是谁
+Biomedical Engineering, Shanghai University  
+**jyxiong@aliyun.com**
 
-## Title
