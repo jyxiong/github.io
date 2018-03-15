@@ -33,7 +33,7 @@ paths:
   base: https://jyxiong.github.io
   home: https://jyxiong.github.io
   all:  /all.html
-  about: /about.html
+  about: /about.md
   rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
@@ -50,7 +50,7 @@ author:
   email: jyxiong@aliyun.com #your Email address e.g. someone@site.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
-  github: https://github.com/jyxiong #your GitHub username
+  github: jyxiong #your GitHub username
   # googleplus:  #your Google+ username
   # weibo:  #your Weibo username
   # douban:  #your Douban username
