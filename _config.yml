@@ -11,11 +11,13 @@
 #    |  |  \   --. /  .'.  \  |  |
 #    `--'   `----''--'   '--' `--'
 
+# config file for demo site, DELETE IT IF YOU WANT.
+
 text_color_theme: default #eg: default | dark | forest | ocean | chocolate | orange
 ## Base settings ##
 url: https://jyxiong.github.io #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: Someone's blog
+title: jyxiong's blog
 description: > #this means to ignore newlines until "nav_lists:"
   Someone's Blog
 
@@ -27,15 +29,16 @@ nav_lists:
       zh-Hant: 關於
     url: /about.html
 
-# paths:
-#   base: /
-#   home: /
-#   all:  /all.html
-#   rss:  /feed.xml
+paths:
+  base: https://jyxiong.github.io
+  home: https://jyxiong.github.io
+  all:  /all.html
+  about: /about.html
+  rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
-# repository:  #e.g. someone/someone.github.io
-# repository_tree:  #e.g. master
+repository: jyxiong/jyxiong.github.io #e.g. someone/someone.github.io
+repository_tree: master #e.g. master
 
 ## Language & timezone ##
 lang: en #the language of your site, eg: en(English), zh(简体中文), zh-Hans(简体中文), zh-Hant(繁體中文)
@@ -44,10 +47,10 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 ## Author & social ##
 author:
   name: Someone
-  # email:  #your Email address e.g. someone@site.com
+  email: jyxiong@aliyun.com #your Email address e.g. someone@site.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
-  # github:  #your GitHub username
+  github: https://github.com/jyxiong #your GitHub username
   # googleplus:  #your Google+ username
   # weibo:  #your Weibo username
   # douban:  #your Douban username
