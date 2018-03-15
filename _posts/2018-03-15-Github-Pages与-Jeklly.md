@@ -16,3 +16,5 @@ $ gem sources -l
 
 在切换到新的http://gems.ruby-china.org的源时，还是有可能会出现这个提示Error fetching，这个情况有两个可能：
 (1)是因为系统是Windows的缘故，你可以把https://gems.ruby-china.org/中的https换成http，我就是这样成功更换源的。这个问题在ruby的社区里有人已经提到了。(2)如果是其他系统，则可能是SSL证书没更新，更新SSL 证书后解决。另外有一点要注意的是Windows上相关的ruby操作命令请尽量在Windows CMD环境下执行。
+
+解决办法是在运行服务器前先运行chcp 65001命令，即可解决。
