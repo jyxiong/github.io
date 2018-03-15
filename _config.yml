@@ -69,7 +69,7 @@ disqus:
 gitalk:
   clientID: 3cdfdc2d3a680dcba197 #Github Application Client ID
   clientSecret: 89d6dfc677a8cc311c5a2716bc029017b23cdd63 #Github Application Client Secret
-  repository: jyxiong/jyxiong.github.io #Github repo
+  repository: https://github.com/jyxiong/jyxiong.github.io #Github repo
   owner: jyxiong #Github repo owner
   admin:  #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
     - jyxiong
