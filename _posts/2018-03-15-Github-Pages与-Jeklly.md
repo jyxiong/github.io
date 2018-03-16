@@ -8,9 +8,9 @@ tags:
   - 踩过的坑
 ---
 
-> [GitHub Pages](https://pages.github.com/) 是一个静态网站托管服务，可直接从GitHub托管页面
-> [Jekyll](https://jekyllrb.com/) 是一个静态站点生成器，它会根据网页源码生成静态文件
-> 使用 GitHub Pages 和 Jekyll，可以自由 (**free**) 且免费 (**free**) 地制作网站
+> [GitHub Pages](https://pages.github.com/) 是一个静态网站托管服务，可直接从GitHub托管页面  
+> [Jekyll](https://jekyllrb.com/) 是一个静态站点生成器，它会根据网页源码生成静态文件  
+> 使用 GitHub Pages 和 Jekyll，可以自由 (**free**) 且免费 (**free**) 地制作网站  
 
 ##  GitHub Pages
 1. 注册一个 [GitHub](https://github.com/) 账号
