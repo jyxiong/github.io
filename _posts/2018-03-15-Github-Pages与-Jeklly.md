@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test - Article With Long TOC
+title: GitHub Pages 与 Jekyll
 key: 20180315
 tags: Test
 ---
