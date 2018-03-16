@@ -18,7 +18,7 @@ text_color_theme: default #eg: default | dark | forest | ocean | chocolate | ora
 url: https://jyxiong.github.io #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
 title: Jingyu Xiong's Blog
-description: 我心隔山海，山海不可平 #this means to ignore newlines until "nav_lists:"
+description: #this means to ignore newlines until "nav_lists:"
   
 
 nav_lists:
