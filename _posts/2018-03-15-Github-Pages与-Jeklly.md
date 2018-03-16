@@ -8,8 +8,8 @@ tags:
   - 踩过的坑
 ---
 
-> [GitHub Pages](https://pages.github.com/) 是一个静态网站托管服务，可直接从GitHub托管页面。    
-> [Jekyll](https://jekyllrb.com/) 是一个静态站点生成器，它会根据网页源码生成静态文件。  
+> [GitHub Pages](https://pages.github.com/) 是一个静态网站托管服务，可直接从GitHub托管页面
+> [Jekyll](https://jekyllrb.com/) 是一个静态站点生成器，它会根据网页源码生成静态文件
 > 使用 GitHub Pages 和 Jekyll，可以自由 (**free**) 且免费 (**free**) 地制作网站
 
 ##  GitHub Pages
@@ -21,12 +21,14 @@ tags:
 ## Ruby
 > Jekyll 需要安装 Ruby  
 
-Windows下直接下载集成好的[RubyInstaller](https://rubyinstaller.org/downloads/)来进行安装。注意选择正确的版本。  
+Windows 下直接下载集成好的 [RubyInstaller](https://rubyinstaller.org/downloads/) 来进行安装
+注意选择正确的版本
 
 ## RubyGems
 > 用 RubyGems 管理 Ruby 包  
 
-RubyGems 是一个 Ruby 的包管理系统，类似于 Anaconda 与 Python 的关系。下载[RubyGems](https://rubygems.org/pages/download)压缩包，解压到本地任意位置
+RubyGems 是一个 Ruby 的包管理系统，类似于 Anaconda 与 Python 的关系。
+下载 [RubyGems](https://rubygems.org/pages/download) 压缩包，解压到本地任意位置
 ```
 $ cd yourpath to RubyGems
 $ ruby setup.rb
@@ -52,7 +54,7 @@ $ gem sources --remove https://rubygems.org/
 
 ### 切换源时提示 Error fetching
 
-https://gems.ruby-china.org/ 中的`https`换成`http`
+https://gems.ruby-china.org/ 中的 `https` 换成 `http`
 
 
 ### 运行 `jekyll serve` 时的 `GBK` 问题
