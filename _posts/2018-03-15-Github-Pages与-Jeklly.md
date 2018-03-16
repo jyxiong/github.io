@@ -52,9 +52,9 @@ $ gem sources --add https://gems.ruby-china.org/
 $ gem sources --remove https://rubygems.org/
 ```
 
-### 切换源时提示 Error fetching
+### 切换源时提示 `Error fetching`
 
-https://gems.ruby-china.org/ 中的 `https` 换成 `http`
+`https://gems.ruby-china.org/` 中的 `https` 换成 `http`
 
 
 ### 运行 `jekyll serve` 时的 `GBK` 问题
