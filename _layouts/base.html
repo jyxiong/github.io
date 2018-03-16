@@ -31,8 +31,6 @@
     {%- include utils/mathjax.html -%}
     {%- include utils/mermaid.html -%}
     {%- include utils/chart.html -%}
-    <!--default: jekyll.environment == "development" 
-    为了在开发环境下一些隐藏的元素-->
     {%- if jekyll.environment != "development" -%}
       {%- include utils/google-analytics.html -%}
     {%- endif -%}

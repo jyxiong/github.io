@@ -1,11 +1,9 @@
 ---
 layout: post
-title: GitHub Pages 与 Jekyll
+title: GitHub Pages Jekyll
 key: 20180315
 tags: 
-  - 环境配置
-  - 教程帖
-  - 踩过的坑
+  - test
 ---
 
 > [GitHub Pages](https://pages.github.com/) 是一个静态网站托管服务，可直接从GitHub托管页面  
