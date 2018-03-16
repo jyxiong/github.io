@@ -46,16 +46,13 @@ $ jekyll serve
 
 ## Bugs
 1. `gem install jekyll` 不能运行
-
 ```
 $ gem sources --add https://gems.ruby-china.org/ 
 $ gem sources --remove https://rubygems.org/
 ```
-
 2. 切换源时提示 `Error fetching`
 
 `https://gems.ruby-china.org/` 中的 `https` 换成 `http`
-
 
 3. 运行 `jekyll serve` 时的 `GBK` 问题
 
