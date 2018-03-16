@@ -51,6 +51,8 @@ layout: base
 					<div class="article-next"><span>{{ __return }}</span><a href="{{ href }}">{{ page.previous.title }}</a></div>
 				{%- endif -%}
 			</div>
+			<!--default: jekyll.environment == "development" 
+  	  为了在开发环境下一些隐藏的元素-->
 			{%- if jekyll.environment != "development" and page.comment != false -%}
 				<section>{%- include utils/comment-disqus.html -%}</section>
 				<section>{%- include utils/comment-gitalk.html -%}</section>
