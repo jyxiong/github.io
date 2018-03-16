@@ -18,7 +18,7 @@ text_color_theme: default #eg: default | dark | forest | ocean | chocolate | ora
 url: https://jyxiong.github.io #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
 title: Jingyu Xiong's Blog
-description: 我心隔山海，山海不可平> #this means to ignore newlines until "nav_lists:"
+description: 我心隔山海，山海不可平 #this means to ignore newlines until "nav_lists:"
   
 
 nav_lists:
@@ -34,7 +34,7 @@ paths:
   home: https://jyxiong.github.io
   all:  /all.html
   about: /about.md
-#  rss:  /feed.xml
+  rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
 repository: jyxiong/jyxiong.github.io #e.g. someone/someone.github.io
