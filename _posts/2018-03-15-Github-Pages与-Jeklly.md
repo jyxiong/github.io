@@ -2,7 +2,10 @@
 layout: post
 title: GitHub Pages 与 Jekyll
 key: 20180315
-tags: Test
+tags: 
+  - 环境配置
+  - 教程帖
+  - 踩过的坑
 ---
 
 > [GitHub Pages](https://pages.github.com/) 是一个静态网站托管服务，可直接从GitHub托管页面。    
@@ -31,6 +34,7 @@ $ ruby setup.rb
 
 ## Jekyll
 > 用 Jekyll 在本地浏览网站
+
 ```
 $ gem install jekyll
 $ cd you website path
@@ -38,15 +42,19 @@ $ jekyll serve
 ```
 在浏览器打开 http://localhost:4000/ 即可在本地运行网站。
 
-解决gem install jekyll 不能运行的问题 https://gems.ruby-china.org/
-切换源
-$ gem sources --add https://gems.ruby-china.org/ --remove https://rubygems.org/
-$ gem sources -l
-**确保只有 gems.ruby-china.org**
+## Bugs
+### `gem install jekyll` 不能运行
 
-在切换到新的https://gems.ruby-china.org的源时，还是有可能会出现这个提示Error fetching，这个情况有两个可能：
-(1)是因为系统是Windows的缘故，你可以把https://gems.ruby-china.org/中的https换成http，我就是这样成功更换源的。这个问题在ruby的社区里有人已经提到了。
-(2)如果是其他系统，则可能是SSL证书没更新，更新SSL 证书后解决。另外有一点要注意的是Windows上相关的ruby操作命令请尽量在Windows CMD环境下执行。
+```
+$ gem sources --add https://gems.ruby-china.org/ 
+$ gem sources --remove https://rubygems.org/
+```
 
-GBK 问题
-解决办法是在运行服务器前先运行chcp 65001命令，即可解决。
+### 切换源时提示 Error fetching
+
+https://gems.ruby-china.org/ 中的`https`换成`http`
+
+
+### 运行 `jekyll serve` 时的 `GBK` 问题
+
+在此之前先运行 `chcp 65001` 命令
