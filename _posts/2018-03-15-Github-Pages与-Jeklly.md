@@ -5,6 +5,9 @@ key: 20180315
 tags: Test
 ---
 
+##  GitHub Pages
+* 注册一个 GitHub(https://github.com/) 账号
+
 ## Ruby
 首先你需要ruby来使用本地jekyll。Mac和Linux可以用Terminal配合yum或者brew这样的包管理器很方便的安装ruby。Windows下更是方便，可以直接中集成好的Ruby installer来进行安装，文章里的就是传送门。
 ## RubyGems
