@@ -12,7 +12,7 @@ tags:
 > [Jekyll](https://jekyllrb.com/) 是一个静态站点生成器，它会根据网页源码生成静态文件  
 > 使用 GitHub Pages 和 Jekyll，可以自由 (**free**) 且免费 (**free**) 地制作网站  
 
-##  GitHub Pages
+## GitHub Pages
 1. 注册一个 [GitHub](https://github.com/) 账号
 2. 创建基于用户名的repository(仓库)：[jyxiong.github.io](https://github.com/jyxiong/jyxiong.github.io)
 3. 拉取现有模板到仓库中，如 [Jekyll Themes](http://jekyllthemes.org/)
@@ -46,22 +46,14 @@ $ jekyll serve
 在浏览器打开 http://localhost:4000/ 即可在本地运行网站
 
 ## Bugs
-<<<<<<< HEAD
 1 `gem install jekyll` 不能运行
-=======
-1. `gem install jekyll` 不能运行
 
->>>>>>> origin/master
 ```
 $ gem sources --add https://gems.ruby-china.org/ 
 $ gem sources --remove https://rubygems.org/  
 ```
-<<<<<<< HEAD
-2 切换源时提示 `Error fetching`
-=======
 
-2. 切换源时提示 `Error fetching`  
->>>>>>> origin/master
+2 切换源时提示 `Error fetching`
 
 `https://gems.ruby-china.org/` 中的 `https` 换成 `http`
 
@@ -69,12 +61,8 @@ $ gem sources --remove https://rubygems.org/
 
 在此之前先运行 `chcp 65001` 命令  
 
-4. 运行 `jekyll serve` 时 `error: permission denied -bind(2)`
-
-<<<<<<< HEAD
 4 运行 `jekyll serve` 时 `error: permission denied -bind(2)`
-=======
->>>>>>> origin/master
+
 `127.0.0.1：4000` 端口被占用
 
 ```
