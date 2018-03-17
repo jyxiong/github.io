@@ -58,7 +58,8 @@ $ gem sources --remove https://rubygems.org/
 
 在此之前先运行 `chcp 65001` 命令  
 
-4. 运行 `jekyll serve` 时 `error: permission denied -bind(2)`  
+4. 运行 `jekyll serve` 时 `error: permission denied -bind(2)`
+
 `127.0.0.1：4000` 端口被占用
 ```
 netstat -aon | findstr "4000"
