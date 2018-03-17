@@ -42,14 +42,17 @@ $ gem install jekyll
 $ cd you website path
 $ jekyll serve
 ```
+
 在浏览器打开 http://localhost:4000/ 即可在本地运行网站
 
 ## Bugs
 1. `gem install jekyll` 不能运行
+
 ```
 $ gem sources --add https://gems.ruby-china.org/ 
 $ gem sources --remove https://rubygems.org/  
 ```
+
 2. 切换源时提示 `Error fetching`  
 
 `https://gems.ruby-china.org/` 中的 `https` 换成 `http`
@@ -61,6 +64,7 @@ $ gem sources --remove https://rubygems.org/
 4. 运行 `jekyll serve` 时 `error: permission denied -bind(2)`
 
 `127.0.0.1：4000` 端口被占用
+
 ```
 netstat -aon | findstr "4000"
 ```
