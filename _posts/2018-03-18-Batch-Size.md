@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 训练
+title: Batch Size
 key: 20180318
 tags: 
   - MXNet & Gluon
