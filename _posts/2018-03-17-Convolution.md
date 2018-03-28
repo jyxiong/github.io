@@ -5,6 +5,7 @@ key: 20180317
 tags: 
   - MXNet & Gluon
   - CNN
+  - Deep Learning
 ---
 
 ## 卷积层
