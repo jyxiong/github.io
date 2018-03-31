@@ -5,5 +5,5 @@ key: 20180322
 tags: 
   - MXNet & Gluon
   - CNN
-  - Deep Learning
+  - Computer Vision
 ---

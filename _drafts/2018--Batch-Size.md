@@ -1,9 +1,15 @@
 ---
 layout: post
-title: Multiple GPUs
-key: 20180328
+title: Batch Size
+key: 2018
 tags: 
   - MXNet & Gluon
-  - CNN
   - Deep Learning
 ---
+
+## 
+BGD
+
+SGD
+
+MBGD

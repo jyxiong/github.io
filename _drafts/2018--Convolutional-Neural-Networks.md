@@ -1,11 +1,10 @@
 ---
 layout: post
-title: 卷积
-key: 20180317
+title: Convolutional Neural Networks
+key: 2018
 tags: 
   - MXNet & Gluon
   - CNN
-  - Deep Learning
 ---
 
 ## 卷积层
@@ -58,3 +57,8 @@ output:
    [ 38.  44.]]]]
 <NDArray 1x1x2x2 @cpu(0)>
 ```
+
+## 池化层
+
+
+## batch normaliziation

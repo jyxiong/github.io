@@ -16,7 +16,7 @@ tags:
 
 1. 注册一个 [GitHub](https://github.com/) 账号
 
-2. 创建基于用户名的repository(仓库)：[jyxiong.github.io](https://github.com/jyxiong/jyxiong.github.io)
+2. 创建基于用户名的 repository(仓库)：[jyxiong.github.io](https://github.com/jyxiong/jyxiong.github.io)
 
 3. 拉取现有模板到仓库中，如 [Jekyll Themes](http://jekyllthemes.org/)
 
