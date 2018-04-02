@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Batch Size
-key: 2018
+title: Batch Normalization
+key: 20180324
 tags: 
   - MXNet & Gluon
-  - Deep Learning
+  - CNN
 ---
 
 ## 

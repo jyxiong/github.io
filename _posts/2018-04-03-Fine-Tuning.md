@@ -1,10 +1,9 @@
 ---
 layout: post
-title: U-Net
-key: 20180320
+title: Fine Tuning
+key: 201804-03
 tags: 
   - MXNet & Gluon
   - CNN
   - Computer Vision
-  - 语义分割
 ---
