@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Convolutional Neural Networks
-key: 20180322
+key: 20180321
 tags: 
   - MXNet & Gluon
   - CNN
@@ -61,4 +61,3 @@ output:
 ## 池化层
 
 
-## batch normaliziation

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fine Tuning
-key: 201804-03
+key: 20180403
 tags: 
   - MXNet & Gluon
   - CNN
