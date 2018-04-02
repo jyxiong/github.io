@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Convolutional Neural Networks
+title: CNN Models 1
 key: 20180329
 tags: 
   - MXNet & Gluon
@@ -9,6 +9,7 @@ tags:
 ---
 
 ## About
+回顾 LeNet、AlexNet、VGG、GoogLeNet、ResNet  
 所有代码均可[下载](https://github.com/jyxiong/cnn-models-mxnet)
 
 ## LeNet
