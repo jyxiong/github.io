@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Optimization
-key: 20180324
+key: 20180306
 tags: 
   - MXNet & Gluon
   - CNN

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu & CUDA
-key: 20180318
+key: 20180221
 tags: 
   - 环境配置
   - 教程帖

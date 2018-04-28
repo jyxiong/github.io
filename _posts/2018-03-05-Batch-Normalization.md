@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Batch Normalization
-key: 20180323
+key: 20180305
 tags: 
   - MXNet & Gluon
   - CNN

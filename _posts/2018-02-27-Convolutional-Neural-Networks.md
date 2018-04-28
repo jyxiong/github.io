@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Convolutional Neural Networks
-key: 20180321
+key: 20180227
 tags: 
   - MXNet & Gluon
   - CNN

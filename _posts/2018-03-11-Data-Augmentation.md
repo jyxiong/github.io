@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Augmentation
-key: 20180326
+key: 20180311
 tags: 
   - MXNet & Gluon
   - CNN

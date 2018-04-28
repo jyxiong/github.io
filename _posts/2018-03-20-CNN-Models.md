@@ -1,7 +1,7 @@
 ---
 layout: post
-title: CNN Models 1
-key: 20180330
+title: CNN Models 2
+key: 20180320
 tags: 
   - MXNet & Gluon
   - CNN
