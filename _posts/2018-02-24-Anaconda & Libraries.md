@@ -102,15 +102,15 @@ source activate mxnet
 pip install mxnet-cu80
 ```
 
-### Pytorch
+### PyTorch
 
-创建 Pytorch 环境，并激活：
+创建 PyTorch 环境，并激活：
 ```
 conda create -n pytorch python=3.6
 source activate pytorch
 ```
 
-直接安装 MXNet:
+直接安装 PyTorch:
 ```
 conda install pytorch torchvision -c pytorch
 ```
