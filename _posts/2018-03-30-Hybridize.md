@@ -7,7 +7,7 @@ tags:
   - Deep Learning
 ---
 
-### 参考 [Gluon官方教程](https://zh.gluon.ai/chapter_gluon-advances/hybridize.html)
+> 参考 [Gluon官方教程](https://zh.gluon.ai/chapter_gluon-advances/hybridize.html)
 
 ## 命令式编程 VS 符号式编程
 
