@@ -12,4 +12,4 @@ tags:
 回顾 LeNet、AlexNet、VGG、GoogLeNet、ResNet  
 所有代码均可[下载](https://github.com/jyxiong/cnn-models-mxnet)
 
-## GoogLeNet
+## GoogLeNet (Inception V1)
