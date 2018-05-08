@@ -10,7 +10,7 @@ tags:
 
 
 ```
-Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich. "Going deeper with convolutions."
+Going deeper with convolutions
 ```
 
 ## 前言

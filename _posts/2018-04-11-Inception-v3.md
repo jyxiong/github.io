@@ -7,3 +7,7 @@ tags:
   - CNN
   - Computer Vision
 ---
+
+```
+Rethinking the Inception Architecture for Computer Vision
+```
